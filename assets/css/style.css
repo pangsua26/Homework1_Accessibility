@@ -199,3 +199,18 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+#skip a {
+    disply: block;
+    position: absolute;
+    left: -999px;
+    top: -999px;
+}
+
+#skip a:focus {
+    left: 0;
+    top: 0;
+    padding: 3px;
+    background: #ffc;
+    border: 1px solid #990000;
+}
