@@ -25,7 +25,7 @@ body {
 }
 
 h3 {
-    color: white
+    color: white;
 }
 
 .header div {
@@ -52,7 +52,7 @@ a {
 
 p {
     font-size: 16px;
-    color: black
+    color: black;
 }
 
 .hero {
@@ -89,7 +89,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    color: black
+    color: black;
 }
 
 .benefit-lead {
@@ -99,12 +99,12 @@ p {
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: black
+    color: black;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: black
+    color: black;
 }
 
 .benefit-lead h3 {
